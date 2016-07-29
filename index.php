@@ -11,7 +11,7 @@
         
         <?php
         
-        $error= "" ;
+        $error= " " ;
         
         if(isset($_POST['submit'])){
             
