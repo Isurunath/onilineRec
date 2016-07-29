@@ -1,0 +1,56 @@
+
+.catagory{
+    width: 20%;
+    padding-left: 15%;
+    padding-top: 3%;
+    height: 100%;
+    float: left; 
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.cat{
+    text-align: center;
+    font-size: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100%;
+    height: 10%;
+}
+
+.jobs{
+    width: 47%;
+    height: 100%;
+    padding-right: 15%;
+    padding-left: 3%;
+    padding-top: 3%;
+    float: left;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.Rectable{
+    
+    width: 100%;
+	text-align: center;
+	font-size: 18px;
+    background-color:white;
+}
+.jobDetails{
+    
+}
+.jobDetails>td{
+    padding-top: 10%;
+    width: 30%;
+}
+
+.apply{
+    text-decoration: none;
+    background-color: crimson;
+    border-radius: 5px;
+}
+
+.apply:hover{
+    background-color: darkcyan;
+}
+
+
+
